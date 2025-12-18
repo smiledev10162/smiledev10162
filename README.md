@@ -6,15 +6,11 @@
 
 <!-- - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in) -->
 
-- 🌱 I'm currently learning **DevOps**
+- 🌱 I'm available for new opportunies
 
-- 👨‍💻 My projects are available at [https://aayushbharti.in/projects](https://aayushbharti.in/projects)
+- 📝 Senior Full Stack Software Engineer with rich experience in building intelligent, scalable web applications and end-to-end machine learning systems. Proficient in Python (Django, Flask, FastAPI) and Node.js (Express.js, NestJS) for backend development and React, Next.js, Angular and Vue.js and TypeScript for modern frontends. Specialized in AI/ML, NLP, and data-driven automation using TensorFlow, PyTorch, and scikit-learn. Experienced in MLOps, API integration, and cloud deployment on AWS, GCP, and Docker/Kubernetes.
 
-- 📝 I write blogs on [aayushbharti.in/blog](https://aayushbharti.in/blog)
-
-<!-- - 💬 Ask me about **next.js, typescript, framer motion, node.js** -->
-
-- 📫 How to reach me **<hello@aayushbharti.in>**
+- 📫 How to reach me **<smartcodemotive@outlook.com>**
 
 <br/>
 
