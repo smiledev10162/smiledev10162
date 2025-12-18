@@ -1,6 +1,6 @@
 <br/>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=red&style=for-the-badge)]
+![Visits Badge(https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=red&style=for-the-badge)]
 
 <h3>Senior Full Stack Software Engineer</h3>
 
