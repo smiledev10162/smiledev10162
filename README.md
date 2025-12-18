@@ -1,8 +1,8 @@
 <br/>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=smartcodemotive&label=Profile%20views&color=red&style=for-the-badge)]
+[![Visits Badge](https://komarev.com/ghpvc/?username=AayushBharti&label=Profile%20views&color=red&style=for-the-badge)]
 
-<h3>A Full Stack Engineer</h3>
+<h3>Senior Full Stack Software Engineer</h3>
 
 <!-- - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in) -->
 
