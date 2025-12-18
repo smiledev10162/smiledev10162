@@ -10,8 +10,6 @@
 
 - 📝 Senior Full Stack Software Engineer with rich experience in building intelligent, scalable web applications and end-to-end machine learning systems. Proficient in Python (Django, Flask, FastAPI) and Node.js (Express.js, NestJS) for backend development and React, Next.js, Angular and Vue.js and TypeScript for modern frontends. Specialized in AI/ML, NLP, and data-driven automation using TensorFlow, PyTorch, and scikit-learn. Experienced in MLOps, API integration, and cloud deployment on AWS, GCP, and Docker/Kubernetes.
 
-- 📫 How to reach me **<smartcodemotive@outlook.com>**
-
 <br/>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
@@ -20,7 +18,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)](https://aayushbharti.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,nodejs,html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,expressjs,nestjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,c&theme=dark&titles=true)](https://aayushbharti.in)
 
   <!-- jest -->
 </p>
