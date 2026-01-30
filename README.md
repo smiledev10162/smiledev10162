@@ -181,11 +181,11 @@ CSS              ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <div align="center">
-    <span>
+    <!-- <span>
       <a href="https://aayushbharti.in">
         <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=smartcodemotive&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
-    </span>
+    </span> -->
     <!-- <span>
       <a href="https://aayushbharti.in">
         <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=smartcodemotive&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
